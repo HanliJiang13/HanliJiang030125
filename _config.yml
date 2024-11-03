@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "Toronto, Canada"
-title                    : "Hanli Jiang"
-title_separator          : "- UofT"
+title                    : "Hanli Jiang - @ UofT_CS"
+title_separator          : "-"
 name                     : &name "Hanli Jiang"
 description              : &description "UofT_CS"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
