@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# permalink: https://www.biorxiv.org/content/10.1101/2024.10.28.620702v1.article-info
+excerpt: 'This study introduces SenSeqNet, a deep learning framework aimed at the detection of cellular senescence from protein sequences, addressing the limitations of traditional wet lab assays. By employing the Evolutionarily Scaled Model (ESM-2) for feature extraction followed by a hybrid architecture incorporating long short-term memory (LSTM) and convolutional neural networks (CNNs), the model achieved an accuracy of 83.55% on independent testing benchmarks.'
+date: 2024-11-01
+venue: 'bioRxiv'
+# slidesurl: ''
+paperurl: 'https://www.biorxiv.org/content/10.1101/2024.10.28.620702v1.article-info'
+citation: '
+Hanli Jiang, Li Lin, Dongliang Deng, Jianyu Ren, Xin Yang, Siyi Liu, Lubin Liu. SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences.
+bioRxiv 2024. doi: https://doi.org/10.1101/2024.10.28.620702'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
