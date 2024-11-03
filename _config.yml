@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Toronto, Canada"
-title                    : "Hanli Jiang - @ UofT_CS"
+title                    : "Hanli Jiang - @ UofT|CS"
 title_separator          : "-"
 name                     : &name "Hanli Jiang"
 description              : &description "UofT_CS"
