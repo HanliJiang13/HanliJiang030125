@@ -65,7 +65,7 @@ Projects
   * Pet Adoption Website - PetPal
   * Supervisor: Professor Kuei (Jack) Sun
 
-Extra-curricular-activity
+Extra curricular activity
 ======
 * Jan 2024 - Sep 2024: Tutor Training Program, University of Toronto
   * Participated in a comprehensive training program to enhance tutoring skills and support student learning effectively
