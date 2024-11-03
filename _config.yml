@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Toronto, Canada"
-title                    : "Hanli Jiang - @ UofT|CS"
+title                    : "Hanli Jiang - @ UofT"
 title_separator          : "-"
 name                     : &name "Hanli Jiang"
 description              : &description "UofT_CS"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.png"
   name             : "Hanli Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Fourth Year Undergraduate Student @UofT_CS"
+  bio              : "Fourth Year Undergraduate Student @UofT CS"
   location         : "Toronto, Canada"
   employer         : "University of Toronto & OICR"
   uri              : # URL
