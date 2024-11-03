@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Toronto, Canada"
 title                    : "Hanli Jiang"
-title_separator          : "-"
+title_separator          : "- UofT"
 name                     : &name "Hanli Jiang"
 description              : &description "UofT_CS"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -213,7 +213,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
