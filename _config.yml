@@ -12,7 +12,7 @@ title                    : "Hanli Jiang - @ UofT"
 title_separator          : "-"
 name                     : &name "Hanli Jiang"
 description              : &description "UofT_CS"
-url                      : https://HanliJiang13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HanliJiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/HanliJiang13/HanliJiang13.github.io"
 
