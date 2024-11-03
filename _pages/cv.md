@@ -11,43 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. University of Toronto 2021 - 2025
+  * Computer Science Specialist
+  * Dean’s List 2022 - 2024
+  * Research Interests: Computational Biology, Machine Learning, Cancer Research
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2024 - Present: Thesis Student - Reimand Lab
+  * At University of Toronto & Ontario Institute for Cancer Research
+  * Supervisor/PI: Professor Jüri Reimand
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - Present: Independent Project Student 
+  * At Urogynecology and Oncology Department, Chongqing Medical University
+  * Supervisor: Dr. Chunyan Ao (University of Tsukuba) & Dr. Li Lin (Chongqing Medical University) 
+  * PI: Professor Lubin Liu 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2023 - May 2024: Research Intern - Hongbo Qi’s Lab
+  * At Chongqing Medical University
+  * Supervisor: Dr. Li Lin
+  * PI: Professor Hongbo Qi
+
+* Mar 2024 - May 2024: Research Volunteer - MeelGroup
+  * At University of Toronto  
+  * Supervisor/PI: Professor Kuldeep S. Meel
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
+======
+* Aug 2024 - Present: Biomedical App / Machine Learning Developer Intern 
+  * GastroTrackAI 
+
+* May 2024  - Aug 2024: Algorithm Optimization Intern
+  * Skylab M & C Technology Co., Ltd.
+
+* Sep 2023 - Dec 2023: Frontend Developer Intern
+  * Voithos Labs
+
+Projects
+======
+* May 2024 - Present: Leader of the Frontend Team
+  * CSC494/495 Project - IQBank
+  * Supervisor: Professor Kuei (Jack) Sun
+
+* Oct 2023 - Apr 2024: Leader of the Develop Team
+  * WeChat Mini-App for E-commerce
+
+* Sep 2023 - Dec 2023: Leader of the Develop Team
+  * Pet Adoption Website - PetPal
+  * Supervisor: Professor Kuei (Jack) Sun
+
+Extra-curricular-activity
+======
+* Jan 2024 - Sep 2024: Tutor Training Program, University of Toronto
+  * Participated in a comprehensive training program to enhance tutoring skills and support student learning effectively
+
+* Sep 2022 - Apr 2023: Recognized Study Group Leader, University of Toronto
+  * Led study groups for MAT137 and CSC236, hosting weekly in-person meetings to assist members with exam preparation and understanding key concepts
+
+Certifications
+======
+* 2024: Cancer Biology Specialization, Johns Hopkins University (via Coursera)	
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +88,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<!--   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
