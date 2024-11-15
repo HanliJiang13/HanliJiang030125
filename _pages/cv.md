@@ -41,6 +41,10 @@ Publications
 * Y. Long, L. Lin, H. Jiang*, D. Deng, Y. Yuan, Y. Kang, B. Tan, H. Qi. Evaluation of Circulating Cell-Free RNA Derived from EVTs for Early Prediction of Preeclampsia. Life Science, (2024), Under Review.
 * H. Jiang*, L. Lin, D. Deng, J. Ren, X. Yang, S. Liu, L. Liu. SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences. Preprint at bioRxiv (2024), doi: https://doi.org/10.1101/2024.10.28.620702. 
 
+Presentations
+======
+IQBank: Elevate Your Learning with AI-Powered Precision. Applied Research in Action Showcase. Toronto, ON, Canada. (November 2024)
+
 Work experience
 ======
 * Aug 2024 - Present: Biomedical App / Machine Learning Developer Intern 
